@@ -1,0 +1,33 @@
+body {
+  background-image: url('images/art.jpg');
+  background-color: #7F8C8D;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+h1{
+  color: #FF6347;
+  text-align: center;
+  font-weight: bolder;
+}
+h2{
+  font: italic normal 1.4em georgia, sans-serif;
+	letter-spacing: 1px;
+	margin-bottom: 0;
+	color: #7D775C;
+}
+p{
+  font-family: sans-serif;
+  line-height: 40px;
+  font-size: 20;
+
+}
+ul{
+  line-height: 40px;
+  color: #F08080;
+  font-size: 20;
+}
+ol{
+  line-height: 40px;
+  color:#F08080;
+  font-weight: bold;
+}
